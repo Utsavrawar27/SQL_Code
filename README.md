@@ -2,12 +2,12 @@
 Preparation for SQL 
 
 ### Steps:
-1. * Install	git	using	following	commands:
+**1. Install	git	using	following	commands:
 - sudo	apt-get	update
 - sudo	apt-get	upgrade
 - sudo	apt-get	install	git
 
-2. * Clone linux	kernel	tree	from	github	using	following	command
+2. **Clone linux	kernel	tree	from	github	using	following	command
 - git clone	https://github.com/torvalds/linux.git
 
 3. * Change	directory	to linux
